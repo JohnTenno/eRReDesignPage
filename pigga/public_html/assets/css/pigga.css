@@ -11455,7 +11455,7 @@ section.py-lg {
 }
 
 section.pattern-style-1 {
-  background-image: url(../imgs/style-1.png);
+  background-image: (../imgs/style-1.png);
 }
 
 section.pattern-style-2 {
@@ -11467,7 +11467,7 @@ section.pattern-style-3 {
 }
 
 section.pattern-style-4 {
-  background-image: url(../imgs/style-4.png);
+  background-image: url(../imgs/style-4-01.png);
 }
 
 section.has-overlay {
